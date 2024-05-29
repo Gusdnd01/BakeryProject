@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7456330fe821fba42aae65617877c0da, type: 3}
+  m_Name: PoppingCandy
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: "\uD31D\uD551\uCE94\uB514"
+  itemInfo: 
+  itemIcon: {fileID: 21300000, guid: 56a83070a70486e42b902ce326d4dea8, type: 3}
+  dropChance: 50
+  haveCount: 4
+  itemIndex: 0
+  ingredientType: 2
+  isUsed: 0

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a28dd8bf23f97c4798b8885594700fd, type: 3}
+  m_Name: MineInfo_1
+  m_EditorClassIdentifier: 
+  Floor: 1
+  ClearGem: 100
+  IsClearThisStage: 0
+  stageData: {fileID: 11400000, guid: a0301a2e8c1d1a248860f0a46001ad1f, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: Dotan
+  m_EditorClassIdentifier: 
+  CardName: "\uB3C4\uD0C4 \uD53C\uB0A0\uB808"
+  CardType: 0
+  CardVisual: {fileID: 0}
+  abilityAnimation: {fileID: 0}
+  targetEnemyCount: 3
+  hitEffect: {fileID: 0}
+  targetEffect: {fileID: 0}
+  AbillityCost: 2
+  AbillityInfo: 

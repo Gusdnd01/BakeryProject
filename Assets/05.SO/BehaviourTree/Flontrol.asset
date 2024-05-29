@@ -1,0 +1,718 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8458375493138890183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a0387346907e841ac64ced91c3c651, type: 3}
+  m_Name: RandomSelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 3c763791b55bcf84da7a8b282507e464
+  position: {x: 277.7, y: 805.35}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: 6320707612123190105}
+--- !u!114 &-6679521100190027760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6f596382b132a40aa0fd80ce4a6a19, type: 3}
+  m_Name: PhaseBySelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 2e041d2c4a17e844c80e9285c048ef9a
+  position: {x: -482.77493, y: 479.19003}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: -2191763422359094324}
+--- !u!114 &-6625474685039369770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc82129f63582f408e0f3a87eb59fdd, type: 3}
+  m_Name: FlontrolPrimaryAttack2_3
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 3c63e44e6ab843a45ac36fdd7d58c747
+  position: {x: 829, y: 901}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: ThrowStone
+--- !u!114 &-5856050824516845131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0614816bd48456b40ba79c7ad5503413, type: 3}
+  m_Name: FlontrolPrimaryAttack2_1
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 5b4778d072aabe6499c09f912ed17897
+  position: {x: 573, y: 901}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: SpikeAttack2
+--- !u!114 &-4648404295880023059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aef11151aacffd4385f2592ee5d632e, type: 3}
+  m_Name: RootNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 9c467d6106865fa468a870000093981b
+  position: {x: 0, y: 0}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  child: {fileID: 3809939434660871045}
+--- !u!114 &-4411782116030000153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e753755718e64c478d1143e2bf84953, type: 3}
+  m_Name: FlontrolBerserk
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 8a3e948752ffad74f84ac003bb81b380
+  position: {x: -471, y: 821}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: 
+--- !u!114 &-2340643366553125542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6ea09131d9e05498cfc0db29365304, type: 3}
+  m_Name: FlontrolSmiteAttack
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 127b111f5bcc1ef428064a35e108f86d
+  position: {x: -760.00006, y: 901}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: 
+--- !u!114 &-2191763422359094324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a06b38bdcdf0b049a9aa9c92373464b, type: 3}
+  m_Name: HealthBySelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 565f2c3e2774dc54b9acea7727650f32
+  position: {x: -573.96497, y: 592.48}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: 2955562082505216157}
+  - {fileID: 2123747884542514172}
+  healthSelectors: []
+--- !u!114 &-1638668445239066687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff18e011eb4e1ba59c08354a7ff280, type: 3}
+  m_Name: SequenceNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: e72fba4c9e30656429c1a6eb15a6c858
+  position: {x: 202.99997, y: 638.9999}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: 5681215771254988751}
+  - {fileID: -8458375493138890183}
+--- !u!114 &-1559572847640480229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6f596382b132a40aa0fd80ce4a6a19, type: 3}
+  m_Name: PhaseBySelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: c4cc0135bf32da244af48ef167bf3fdd
+  position: {x: 806, y: 753}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: -5856050824516845131}
+  - {fileID: 6836591596459675893}
+  - {fileID: -6625474685039369770}
+  - {fileID: 3732861566616106806}
+--- !u!114 &-1495161737950312079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eea22f2e2d1f0940ba0085aac0c4517, type: 3}
+  m_Name: FlontrolPrimaryAttack1_4
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 14277465648e95643b2b4df4c70541ec
+  position: {x: 353, y: 1051.6}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: FlowerShot
+--- !u!114 &-990765769394178846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6f596382b132a40aa0fd80ce4a6a19, type: 3}
+  m_Name: PhaseBySelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: a3409e1b22a2ec94a9bb916048caaa0f
+  position: {x: 389, y: 512}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: -1638668445239066687}
+  - {fileID: 179892271888638312}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a310246ca011401097a098354ca424fb, type: 3}
+  m_Name: Flontrol
+  m_EditorClassIdentifier: 
+  treeRoot: {fileID: -4648404295880023059}
+  treeState: 0
+  nodes:
+  - {fileID: -4648404295880023059}
+  - {fileID: 3809939434660871045}
+  - {fileID: 8475392819366370012}
+  - {fileID: -6679521100190027760}
+  - {fileID: -8458375493138890183}
+  - {fileID: -1638668445239066687}
+  - {fileID: 5681215771254988751}
+  - {fileID: -990765769394178846}
+  - {fileID: 5624833780497229872}
+  - {fileID: 6320707612123190105}
+  - {fileID: 608726010099651039}
+  - {fileID: -1495161737950312079}
+  - {fileID: 179892271888638312}
+  - {fileID: 2834483647229723579}
+  - {fileID: -1559572847640480229}
+  - {fileID: -5856050824516845131}
+  - {fileID: 6836591596459675893}
+  - {fileID: -6625474685039369770}
+  - {fileID: 3732861566616106806}
+  - {fileID: -4411782116030000153}
+  - {fileID: -2340643366553125542}
+  - {fileID: -2191763422359094324}
+  - {fileID: 5354965539356497105}
+  - {fileID: 2123747884542514172}
+  - {fileID: 2955562082505216157}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+--- !u!114 &179892271888638312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff18e011eb4e1ba59c08354a7ff280, type: 3}
+  m_Name: SequenceNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 1e69367baf6b6ad45951da2eb5649cfc
+  position: {x: 697, y: 616}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: 2834483647229723579}
+  - {fileID: -1559572847640480229}
+--- !u!114 &608726010099651039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba5e1331bda69a49824623905fb3b2c, type: 3}
+  m_Name: FlontrolPrimaryAttack1_3
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: b443595c3d48f2548b456e0a773610e6
+  position: {x: 256, y: 941}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: ScribbleAttack
+--- !u!114 &2123747884542514172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff18e011eb4e1ba59c08354a7ff280, type: 3}
+  m_Name: SequenceNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: f6b24e383df2e1440af44c8eca5b25c6
+  position: {x: -470.99997, y: 701}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: -4411782116030000153}
+--- !u!114 &2834483647229723579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 789bd5b86f1d7544cac80203c9418de1, type: 3}
+  m_Name: AttackCoolDownNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: ff505ba00d477e34893a9fdb65a1aeb2
+  position: {x: 573.00006, y: 765.0001}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  _cooldown: 3
+--- !u!114 &2955562082505216157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59ff18e011eb4e1ba59c08354a7ff280, type: 3}
+  m_Name: SequenceNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: a666d3e8d9749804cb65b40a0f85258b
+  position: {x: -671.82996, y: 696.9575}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: 5354965539356497105}
+  - {fileID: -2340643366553125542}
+--- !u!114 &3732861566616106806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ba5e1331bda69a49824623905fb3b2c, type: 3}
+  m_Name: FlontrolPrimaryAttack1_3
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 1671aa4457bc5804d81f0940186e6884
+  position: {x: 979, y: 981}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: ScribbleAttack
+--- !u!114 &3809939434660871045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a664222551774468e89422b7938f78, type: 3}
+  m_Name: RepeatNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: e5713a1672711344daedf986802d2609
+  position: {x: 0, y: 148.1}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  child: {fileID: 8475392819366370012}
+--- !u!114 &5354965539356497105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d81903dc8a81ec4e9c460343d244f03, type: 3}
+  m_Name: AlreadyUsedNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 257adc17e0ea87e49a034209f4576549
+  position: {x: -841, y: 827}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+--- !u!114 &5624833780497229872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a248ce364e73515488f368ec0c21278e, type: 3}
+  m_Name: FlontrolPrimaryAttack1_1
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 9889d2f9884fccd419453fc3ca800333
+  position: {x: 39, y: 941}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: SpikeAttack
+--- !u!114 &5681215771254988751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 789bd5b86f1d7544cac80203c9418de1, type: 3}
+  m_Name: AttackCoolDownNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 1dbb797780f64124b94a51842376f1dd
+  position: {x: 50.7, y: 787.3501}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  _cooldown: 4
+--- !u!114 &6320707612123190105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a89127b8fe08e5408c535393984e3bf, type: 3}
+  m_Name: FlontrolPrimaryAttack1_2
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: fb3d964fc08124a4899f2be948c42695
+  position: {x: 123, y: 1037.24}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: ClapAttack
+--- !u!114 &6836591596459675893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5cafdb639964b04f88ffc3d054af9d6, type: 3}
+  m_Name: FlontrolPrimaryAttack2_2
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: 2f73311ae4919de46907153a04b276ed
+  position: {x: 718, y: 981}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  parameterName: ShockAttack
+--- !u!114 &8475392819366370012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aba3b19ba8212749ad7e3419bb34bdd, type: 3}
+  m_Name: PrioritySelectorNode
+  m_EditorClassIdentifier: 
+  state: 0
+  started: 0
+  guid: dcceb8056884fd244b2505a5d938c2b7
+  position: {x: -17.250015, y: 317}
+  blackboard:
+    moveToPosition: {x: 0, y: 0, z: 0}
+    enemySpotPosition: {x: 0, y: 0, z: 0}
+    whatIsEnemy:
+      serializedVersion: 2
+      m_Bits: 0
+    phase: 0
+  enemy: {fileID: 0}
+  description: 
+  children:
+  - {fileID: -6679521100190027760}
+  - {fileID: -990765769394178846}

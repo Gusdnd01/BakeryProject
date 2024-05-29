@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6051eb53e0edd4d4b94f6ea1dfff0880, type: 3}
+  m_Name: MilkCake
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: "\uC6B0\uC720 \uCF00\uC774\uD06C"
+  itemInfo: 
+  itemIcon: {fileID: 21300000, guid: b01c76e0d3d91a44792a9aebf330bfd8, type: 3}
+  dropChance: 50
+  ToGetCardBase: {fileID: -5554570068127067684, guid: 3ddb4841e5a194a468d5b062e03880af, type: 3}

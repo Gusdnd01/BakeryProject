@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5896723930e00cd458e877f2f5442079, type: 3}
+  m_Name: DrySkyThunder
+  m_EditorClassIdentifier: 
+  CardName: "\uB9C8\uB978 \uD558\uB298\uC5D0 \uB0A0\uBCBC\uB77D"
+  CardType: 0
+  CardVisual: {fileID: 21300000, guid: b7f5a4f96f84f71489328f8f0fe0416e, type: 3}
+  abilityAnimation: {fileID: 7400000, guid: fa0da448e6c6a9845abf8b8b082d79f8, type: 2}
+  cardShameData: {fileID: 11400000, guid: 05a9de21793c7914ebaefee43ea1e6fd, type: 2}
+  hitEffect: {fileID: 7993180798688134084, guid: d1b4ff7625bef694c9ddc8c4f34e375a, type: 3}
+  targetEffect: {fileID: 7991482987039085331, guid: 988a17af331576c4cb9bc6e9be72644d, type: 3}
+  AbillityInfo: 'Test: Attack All'

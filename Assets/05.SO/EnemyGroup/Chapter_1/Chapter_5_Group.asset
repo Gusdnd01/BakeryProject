@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec4d677312a353944aed915d2d685650, type: 3}
+  m_Name: Chapter_5_Group
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 3374196801977967140, guid: adde4b0c04a65a94c8c241544289524b, type: 3}
+  - {fileID: 7445431910729709249, guid: 22dbbf6f90c131c4ca0c9bce6e49a8ac, type: 3}
+  - {fileID: 9093887842485498522, guid: 49ef0768590259a4385795f9c9ea2327, type: 3}
+  - {fileID: 159784293569747907, guid: d7fb82e86cd21d640b077e93f7990689, type: 3}
+  - {fileID: 6518812675603749712, guid: b992ce5248a431f47b932388f8ff2459, type: 3}

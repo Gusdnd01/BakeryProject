@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e478ccb36b6eb84c96c61e9753a4b3d, type: 3}
+  m_Name: Stage_1
+  m_EditorClassIdentifier: 
+  stageNumber: 3-1
+  stageName: "\uC5BC\uC5B4\uBD99\uC740 \uB545"
+  stageType: 0
+  stageBackGround: 4
+  enemyGroup: {fileID: 11400000, guid: 26a9cc31cb655324e93b4ec850fa6e37, type: 2}
+  clearCondition: {fileID: 11400000, guid: cff655815dbe9ec4b8bdaeb341b876f9, type: 2}
+  compensation:
+    Item: {fileID: 0}
+    count: 0
+  isClearThisStage: 0

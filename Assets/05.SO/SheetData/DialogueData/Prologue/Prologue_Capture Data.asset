@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7effb200d0f1de344b2e77bfb9945581, type: 3}
+  m_Name: Prologue_Capture Data
+  m_EditorClassIdentifier: 
+  toCaptureIDX: 204
+  episodeCaptureElement:
+  - captureDataIDX: 4
+    captureElement:
+      activeType: 2
+      movePosition: {x: -180, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 6
+    captureElement:
+      activeType: 2
+      movePosition: {x: 293, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 7
+    captureElement:
+      activeType: 2
+      movePosition: {x: 62, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 27
+    captureElement:
+      activeType: 2
+      movePosition: {x: -132, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 27
+    captureElement:
+      activeType: 2
+      movePosition: {x: 279, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 28
+    captureElement:
+      activeType: 2
+      movePosition: {x: 279, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 29
+    captureElement:
+      activeType: 2
+      movePosition: {x: 37, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 37
+    captureElement:
+      activeType: 2
+      movePosition: {x: 356, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 38
+    captureElement:
+      activeType: 2
+      movePosition: {x: -216, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 39
+    captureElement:
+      activeType: 2
+      movePosition: {x: 33, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 45
+    captureElement:
+      activeType: 2
+      movePosition: {x: -595, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 47
+    captureElement:
+      activeType: 2
+      movePosition: {x: -359, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 47
+    captureElement:
+      activeType: 2
+      movePosition: {x: 439, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 47
+    captureElement:
+      activeType: 2
+      movePosition: {x: 381, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 47
+    captureElement:
+      activeType: 2
+      movePosition: {x: -266, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 59
+    captureElement:
+      activeType: 2
+      movePosition: {x: 309, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 59
+    captureElement:
+      activeType: 2
+      movePosition: {x: 309, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 66
+    captureElement:
+      activeType: 2
+      movePosition: {x: 625, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 68
+    captureElement:
+      activeType: 2
+      movePosition: {x: 291, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 70
+    captureElement:
+      activeType: 2
+      movePosition: {x: -352, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 71
+    captureElement:
+      activeType: 2
+      movePosition: {x: 102, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 74
+    captureElement:
+      activeType: 2
+      movePosition: {x: 542, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 75
+    captureElement:
+      activeType: 2
+      movePosition: {x: -39, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 81
+    captureElement:
+      activeType: 2
+      movePosition: {x: 188, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 90
+    captureElement:
+      activeType: 2
+      movePosition: {x: 504, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 91
+    captureElement:
+      activeType: 2
+      movePosition: {x: -139, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 93
+    captureElement:
+      activeType: 2
+      movePosition: {x: 294, y: -194}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 94
+    captureElement:
+      activeType: 2
+      movePosition: {x: -263, y: -240}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 102
+    captureElement:
+      activeType: 2
+      movePosition: {x: 294, y: -194}
+      rotationValue: {x: -0, y: -0, z: -0.060024433, w: 0.99819696}
+  - captureDataIDX: 103
+    captureElement:
+      activeType: 2
+      movePosition: {x: 294, y: -263}
+      rotationValue: {x: -0, y: -0, z: 0.9765936, w: 0.21509272}
+  - captureDataIDX: 109
+    captureElement:
+      activeType: 2
+      movePosition: {x: 294, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 135
+    captureElement:
+      activeType: 2
+      movePosition: {x: 411, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 145
+    captureElement:
+      activeType: 2
+      movePosition: {x: 318, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 148
+    captureElement:
+      activeType: 2
+      movePosition: {x: 562, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 151
+    captureElement:
+      activeType: 2
+      movePosition: {x: 290, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 157
+    captureElement:
+      activeType: 2
+      movePosition: {x: 510, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 159
+    captureElement:
+      activeType: 2
+      movePosition: {x: 97, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 166
+    captureElement:
+      activeType: 2
+      movePosition: {x: 572, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 167
+    captureElement:
+      activeType: 2
+      movePosition: {x: 232, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 187
+    captureElement:
+      activeType: 2
+      movePosition: {x: 535, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 193
+    captureElement:
+      activeType: 2
+      movePosition: {x: 322, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 201
+    captureElement:
+      activeType: 2
+      movePosition: {x: 590, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}
+  - captureDataIDX: 203
+    captureElement:
+      activeType: 2
+      movePosition: {x: 356, y: -263}
+      rotationValue: {x: 0, y: 0, z: 0, w: 1}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f8a0200c2990e84a8a2d76256c451c7, type: 3}
+  m_Name: BGMList
+  m_EditorClassIdentifier: 
+  battleType:
+    battle_1: {fileID: 8300000, guid: e2f1ccd309b19004a840043c4a4e638a, type: 3}
+    battle_2: {fileID: 8300000, guid: 0829c3faf306d3d4b92ff073b86d5380, type: 3}
+    battle_3: {fileID: 8300000, guid: ec8e5a7931a1cf9428e8f9c5ffbb3547, type: 3}
+    battle_4: {fileID: 8300000, guid: 8a7fbae4b68d8ff4facff9696ed42d35, type: 3}
+    battle_5: {fileID: 8300000, guid: 791a0252899a06f4c84c98314e5d93ff, type: 3}

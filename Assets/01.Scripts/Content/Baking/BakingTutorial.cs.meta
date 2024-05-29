@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/01.Scripts/Core/SceneList.cs.meta
+guid: 4568afc93e05ddd439eeaab5c1197858
+========
+guid: ff76993da21f8ae43991f6ce91e05d2f
+>>>>>>>> origin/Baking:Assets/01.Scripts/BakingSystem/BakingTutorial.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

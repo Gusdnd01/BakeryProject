@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/01.Scripts/Map/StageDataSO.cs.meta
+guid: 0e478ccb36b6eb84c96c61e9753a4b3d
+========
+guid: b99fc0f1434c54d4c8c41c5a0d1b48e8
+>>>>>>>> origin/Baking:Assets/01.Scripts/BakingSystem/BakingPreparationTutorial.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

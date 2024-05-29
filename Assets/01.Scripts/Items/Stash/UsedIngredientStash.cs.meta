@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/01.Scripts/Items/Stash/UsedIngredientStash.cs.meta
+guid: 1ba93b739d6bbcf449cc5161021e0e30
+========
+guid: 1e2eb44cba1fd3b4d8dcc9dd8f585f38
+>>>>>>>> origin/Hogam:Assets/01.Scripts/Bakery.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

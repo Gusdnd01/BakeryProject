@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_tornado_ice_02
+  m_Shader: {fileID: 4800000, guid: f0bb648ee7ee41447b11415777d9f299, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USE_CUSTOM1_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _Out_Fresnel_Scale1
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dissolve_Texutre1:
+        m_Texture: {fileID: 2800000, guid: 97ebf45aa5fef4241a022d60daaa2214, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture1:
+        m_Texture: {fileID: 2800000, guid: 89077298ef5a77c44a33b40e1e7122fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 97ebf45aa5fef4241a022d60daaa2214, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Vertex_Texture1:
+        m_Texture: {fileID: 2800000, guid: 0eba15a0ffe5ad341896e044785c94a0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaCutoff: 0.5
+    - _Base_Range1: 0.881
+    - _Dissolve1: 1.1
+    - _EnableExternalAlpha: 0
+    - _Hight_Range1: 0.94
+    - _In_Frenel_Pow1: 1.17
+    - _In_Fresnel_Range1: 0.086
+    - _In_Fresnel_Scale1: 0.908
+    - _Main_UPanner1: 0
+    - _Main_VPanner1: -0.5
+    - _Opacity1: 1
+    - _Out_Fresnel_Pow1: 1
+    - _Out_Fresnel_Scale1: 1
+    - _Out_Frsnel_Range1: 1.001
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Rotator1: -2.58
+    - _Smooth1: 0.05
+    - _Use_Custom1: 1
+    - _Vertex_Normal1: 1.04
+    - _Wave_speed: 4.8783603
+    - _main_upanner: 1.08
+    - _main_vpanner: 2
+    - _mask_clip: 0
+    - _opacity: 1
+    - _rot: -0.32
+    - _wave_count: 5.1403666
+    - _wave_rad: 4.926844
+    m_Colors:
+    - _Base_Color1: {r: 2.0702336, g: 3.0096414, b: 3.5111163, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _High_Color1: {r: 1.5660377, g: 3.7278082, b: 4, a: 0}
+    - _In_Fresnel_Color1: {r: 0.28235295, g: 0.35430202, b: 0.54901963, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Shadow_Color1: {r: 0.5369272, g: 2.1176095, b: 3.2522454, a: 0}
+    - _main_color: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

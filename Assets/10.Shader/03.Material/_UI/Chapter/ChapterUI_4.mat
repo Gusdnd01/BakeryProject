@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChapterUI_4
+  m_Shader: {fileID: -6465566751694194690, guid: 0d78450060215884cafa723ff98312bd, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 145143eb93006454baed654b5669d0c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _aura_normal_tex:
+        m_Texture: {fileID: 2800000, guid: 0c9e585b001cd8048afcd07b5676b774, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _aura_tex:
+        m_Texture: {fileID: 2800000, guid: 797465f78de90b240b00e5ae85652680, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _aura_texture:
+        m_Texture: {fileID: 2800000, guid: 145143eb93006454baed654b5669d0c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _dissolve_tex:
+        m_Texture: {fileID: 2800000, guid: 97ebf45aa5fef4241a022d60daaa2214, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sub_alpha_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _sub_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 1
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _CastShadows: 0
+    - _Cull: 2
+    - _DstBlend: 10
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    - _alpha: 1
+    - _aura_ins: 2.5
+    - _aura_length: 0.42
+    - _aura_mask_intencity: 1
+    - _aura_mask_power: 1
+    - _aura_noraml_str: 0.182
+    - _aura_normal_upanner: 0
+    - _aura_normal_vpanner: 0
+    - _aura_power: 76.17
+    - _aura_upanner: 0
+    - _aura_vpanner: -0.31
+    - _blink_amount: 0
+    - _dissolve_amount: 1
+    - _dissolve_edge: 0.0659
+    - _dissolve_pixelize_scale: 47.5
+    - _edge_width: 0.053
+    - _is_outline: 0
+    - _is_up_direction: 0
+    - _line_amount: 0
+    - _line_opacity: 0
+    - _multiplier: 36.2
+    - _noise_scale: 112.5
+    - _noise_size: 30
+    - _noise_str: 30
+    - _outline_thick: 0
+    - _outline_thickness: 0
+    - _rot: 0
+    - _use_aura: 1
+    - _use_aura_mask: 0
+    - _use_aura_mask_1: 0
+    - _use_subtex: 0
+    m_Colors:
+    - _aura_color: {r: 0.30672854, g: 1, b: 0.18396229, a: 0}
+    - _aura_normal_tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _aura_panner_speed: {r: 0, g: -0.36, b: 0, a: 0}
+    - _aura_tex_tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _aura_tiling: {r: 1, g: 0.18, b: 0, a: 0}
+    - _blink_color: {r: 0, g: 0, b: 0, a: 0}
+    - _dissolve_color: {r: 1.515717, g: 1.455241, b: 0.5934173, a: 0}
+    - _line_color: {r: 1, g: 1, b: 1, a: 0}
+    - _main_color: {r: 1, g: 1, b: 1, a: 0}
+    - _outline_color: {r: 0, g: 0, b: 0, a: 0}
+    - _sub_color: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &8867791931673088990
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7

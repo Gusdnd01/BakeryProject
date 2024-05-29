@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2175747008154050383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a107a7d4bcaa6f6449bdafbb1adf724c, type: 3}
+  m_Name: ChildAttackBuff
+  m_EditorClassIdentifier: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917da80877df2714c825df3ccb747ffc, type: 3}
+  m_Name: TaesalhariBuff
+  m_EditorClassIdentifier: 
+  statBuffs:
+  - type: 3
+    values: 0a0000000f0000001e000000
+  - type: 4
+    values: 320000003200000032000000
+  specialBuffs:
+  - {fileID: -2175747008154050383}

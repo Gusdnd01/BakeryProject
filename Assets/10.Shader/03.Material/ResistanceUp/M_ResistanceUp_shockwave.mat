@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_ResistanceUp_shockwave
+  m_Shader: {fileID: 4800000, guid: 78136f43ed023054d833d82e0e560702, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USE_CUSTOM_ON
+  - _USE_STEP_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _Dissolve
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diss_Texture:
+        m_Texture: {fileID: 2800000, guid: 870ae2d60d57cd04fba95274a1472f67, type: 3}
+        m_Scale: {x: 1, y: 0.3}
+        m_Offset: {x: 0, y: 0}
+    - _Dissolve_Texture:
+        m_Texture: {fileID: 2800000, guid: 89077298ef5a77c44a33b40e1e7122fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Edge_noise_Texture:
+        m_Texture: {fileID: 2800000, guid: 1dbf1177420b46f47b20959a7c02ae71, type: 3}
+        m_Scale: {x: 6.11, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Tex:
+        m_Texture: {fileID: 2800000, guid: 3861373a99f5f4a4e95dcb68933556f4, type: 3}
+        m_Scale: {x: 8, y: 1.6}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: 89077298ef5a77c44a33b40e1e7122fc, type: 3}
+        m_Scale: {x: 2.24, y: 0.05}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Texture:
+        m_Texture: {fileID: 2800000, guid: 0c9e585b001cd8048afcd07b5676b774, type: 3}
+        m_Scale: {x: 1, y: 0.39}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sub_Texture:
+        m_Texture: {fileID: 2800000, guid: f03a7b6ea419e314e8c52b72b5a7f6cd, type: 3}
+        m_Scale: {x: 3.4, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _main_Tex:
+        m_Texture: {fileID: 2800000, guid: cb22a4f8b2c06cf49b72d16ee72eff97, type: 3}
+        m_Scale: {x: 2, y: 0.35}
+        m_Offset: {x: 0, y: 0}
+    - _normal_tex:
+        m_Texture: {fileID: 2800000, guid: 0c9e585b001cd8048afcd07b5676b774, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Use_Custom: 1
+    - _AlphaCutoff: 0.5
+    - _Ceil: 0
+    - _Chromatic: 0.025
+    - _CullMode: 0
+    - _Diss_Tex_UPanner: 0
+    - _Diss_Tex_VPanner: 1.02
+    - _Dissolve: 1
+    - _Dst: 1
+    - _Edge_Noise_Tex_VPanner: 0.34
+    - _Edge_Radius: 0.685
+    - _Edge_noise_str: 0.41
+    - _EnableExternalAlpha: 0
+    - _Fade_Distance: 0
+    - _Fade_Ditance: 0
+    - _Fresnel_Pow: 2.96
+    - _Fresnel_Scale: 1.78
+    - _Main_Ins: 1
+    - _Main_Pow: 1.98
+    - _Main_UPanner: 0
+    - _Main_VPanner: 1.1
+    - _Mask_1x: 0
+    - _Mask_Mirror: 1
+    - _Mask_Pow: 5.346326
+    - _Noise_Str: 0.06793601
+    - _Noise_Tex_UPanner: 0
+    - _Noise_Tex_VPanner: 0
+    - _Noise_UPanner: 0
+    - _Noise_VPanner: 0.59
+    - _Noise_str: 0.35
+    - _Opacity: 1.49
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Src: 5
+    - _Step_Amount: 0.27
+    - _SubTex_Ins: 0
+    - _SubTex_Pow: 0
+    - _SubTex_UPanner: 0
+    - _SubTex_VPanner: 0
+    - _Sub_UPanner: 0
+    - _Sub_VPanner: 0.8
+    - _Sub_ins: 20
+    - _Sub_pow: 2.2
+    - _Texture_Value: 1
+    - _Use_AddMulityMask: 0
+    - _Use_Ceil: 0
+    - _Use_Custom: 1
+    - _Use_Customdata: 0
+    - _Use_Customdata1: 0
+    - _Use_MaskTex: 0
+    - _Use_OneMinus: 0
+    - _Use_Step: 1
+    - _dissolve: -1.5
+    - _edge_rad: 0.72
+    - _main_ins: 1.8
+    - _main_intencity: 6.74
+    - _main_pow: 3.41
+    - _main_upanner: 0
+    - _main_utile: 4.35
+    - _main_vpanner: 0.19
+    - _main_vtile: -0.07
+    - _normal_str: 0.091
+    - _normal_upanner: 0
+    - _normal_vpanner: 1
+    - _threshold: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Edge_Color: {r: 1.717358, g: 6.1280284, b: 10.402285, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _Fresnel_Color: {r: 0.27358496, g: 0.62498283, b: 1.9999999, a: 0}
+    - _Main_Color: {r: 2.7751958, g: 2.1220858, b: 5.5908804, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SubTex_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Sub_Color: {r: 22.627417, g: 3.1925745, b: 0, a: 0}
+    - _TintColor: {r: 1.6753992, g: 1.2428185, b: 0.592712, a: 0}
+    - _edge_color: {r: 2.0309038, g: 2.270603, b: 0.8461207, a: 0}
+    - _main_color: {r: 0.7264151, g: 0.37845492, b: 0.33922213, a: 0}
+  m_BuildTextureStacks: []

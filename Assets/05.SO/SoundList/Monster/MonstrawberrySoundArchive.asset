@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145f51c90e183d945904f9ecbc2f4a04, type: 3}
+  m_Name: MonstrawberrySoundArchive
+  m_EditorClassIdentifier: 
+  CombatSoundGroup:
+    attackSound: {fileID: 8300000, guid: 6e87a1410cfd18845be13ba0fe7506bc, type: 3}
+    hitSound: {fileID: 8300000, guid: b562e3ee372130f4b928798de3038cb6, type: 3}
+    dieSound: {fileID: 8300000, guid: 35bcae04d626c1a4885d1f6e31651897, type: 3}
+  ElementSoundGroup:
+    moveSound: {fileID: 8300000, guid: 68451926dc31ef44a90775af92fefabc, type: 3}
+    windSound: {fileID: 8300000, guid: 8461ada211aaceb4b8211de3ccc96c20, type: 3}

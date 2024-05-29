@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce1b4eee7b77cf943856c2370f0199fe, type: 3}
+  m_Name: PlayerStat
+  m_EditorClassIdentifier: 
+  characterName: "\uBE44\uBE44"
+  characterVisual: {fileID: 0}
+  maxHealth:
+    _baseValue: 100
+    modifiers: 
+  armor:
+    _baseValue: 0
+    modifiers: 
+  damage:
+    _baseValue: 0
+    modifiers: 
+  criticalChance:
+    _baseValue: 10
+    modifiers: 
+  criticalDamage:
+    _baseValue: 50
+    modifiers: 

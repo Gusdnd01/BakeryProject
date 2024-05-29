@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1821502338806696653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208a77470c05a5944a26b12ddde7d607, type: 3}
+  m_Name: SampleBossBuff
+  m_EditorClassIdentifier: 
+  durationTurn: 5
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 917da80877df2714c825df3ccb747ffc, type: 3}
+  m_Name: SampleBossPattenBuff
+  m_EditorClassIdentifier: 
+  statBuffs: []
+  specialBuffs:
+  - {fileID: -1821502338806696653}
+  stackBuffs: []

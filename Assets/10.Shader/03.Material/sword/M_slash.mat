@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_slash
+  m_Shader: {fileID: 4800000, guid: 4b7c34181f4d74244be6861121c94efa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _USE_CUSTOMDATA_ON
+  m_InvalidKeywords:
+  - _USE_CUSTOMDATA1_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dissolve_Texture:
+        m_Texture: {fileID: 2800000, guid: 97ebf45aa5fef4241a022d60daaa2214, type: 3}
+        m_Scale: {x: 0.26, y: 0.56}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: 9cdbfc9b776251749b01958e1b037e3f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_tex:
+        m_Texture: {fileID: 2800000, guid: d22e3dd0869befa42860dbf02ea3836f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sword_Texture:
+        m_Texture: {fileID: 2800000, guid: d22e3dd0869befa42860dbf02ea3836f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _diss_normal_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normal_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Use_Custom: 1
+    - _AlphaCutoff: 0.5
+    - _Ceil_Count: 1
+    - _DissTex_UPanner: 0
+    - _DissTex_VPanner: 0
+    - _Dissolve: 1
+    - _Dissolve_Step: 0.5
+    - _Dissolve_Value: 1
+    - _Emi_Offset: -0.19
+    - _EnableExternalAlpha: 0
+    - _Eni_Inten: 3.19
+    - _EnvironmentReflections: 1
+    - _Fade_Ditance: 2.26
+    - _Head_Ins: 1.03
+    - _Head_power: 5.02
+    - _Main_Ins: 1
+    - _Main_Pow: 1
+    - _Main_UPanner: 0
+    - _Main_VPanner: -0.51
+    - _Main_intencity: 1.77
+    - _Main_power: 4.24
+    - _Opacity: 6.05
+    - _Pix: 58
+    - _Power: 0.89
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _SpecularHighlights: 1
+    - _Sword_UOffset: -0.2
+    - _Sword_VOffset: -0.31
+    - _Use_Customdata: 1
+    - _Use_Customdata1: 1
+    - _Use_ToonDissolve: 0
+    - _Use_lerp: 0
+    - __dirty: 0
+    - _diss_normal_power: 0
+    - _diss_normal_upanner: 0
+    - _diss_normal_vpanner: 0
+    - _edge_width: 0.06
+    - _main_ins: 1.68
+    - _main_pow: 0
+    - _main_upanner: 0
+    - _main_vpanner: 0
+    - _normal_radial: 0
+    - _normal_str: 0
+    - _normal_upanner: 1
+    - _normal_vpanner: 1
+    - _threshold: 0.01
+    - _u_off: -0.134
+    - _use_other_diss: 0
+    - _use_polar: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 0.5743492, g: 0.1869344, b: 0.1869344, a: 0}
+    - _Emi_Color: {r: 766.9961, g: 219.12326, b: 128.50195, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _Main_Color: {r: 1.1090769, g: 1.1090769, b: 1.1090769, a: 0}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _edge_color: {r: 0, g: 0, b: 0, a: 0}
+    - _main_color: {r: 1.5157166, g: 0.4933228, b: 0.4933228, a: 1}
+    - _main_color_a: {r: 766.9961, g: 265.89832, b: 32.56114, a: 0}
+    - _main_color_b: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []

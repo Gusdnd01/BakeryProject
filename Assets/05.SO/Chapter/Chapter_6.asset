@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78d8814064c8e244d8494f1cae181444, type: 3}
+  m_Name: Chapter_6
+  m_EditorClassIdentifier: 
+  myChapterType: 5
+  chapterSprite: {fileID: 21300000, guid: d6807542348ed7f42929fc7dd7b8004a, type: 3}
+  loadMap: {fileID: 2161916790984048551, guid: 37ca7e6a57e40e64ab54ef96a1cc779a, type: 3}
+  chapterName: "\uB9C8\uC9C0\uB9C9 \uB545"
+  chapterInfo: "\uB450\uADFC\uAC70\uB9AC\uB294 \uC5EC\uC815\uC758 \uB9C8\uC9C0\uB9C9
+    \uC885\uCC29\uC9C0"

@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 5fdc7bb41d1f11b438a11297d382a5ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 552
+        width: 326
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e19c0b1f7a96d94b9b4bdbde0bcfa1e
+      internalID: 878351159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 840
+        width: 178
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7223e9d6a16a8fc4ea2a5d0a8b17d1a8
+      internalID: 951813087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 999
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a283132affdab3c45a85e8cec565ac96
+      internalID: -701517008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 861
+        width: 147
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df186dbaa9c3c7e4f86b8c033c2a17fd
+      internalID: -2107442677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 860
+        width: 147
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dccb8366c125d41951bbd46dd578a8
+      internalID: 460426548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 873
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4dae286b84d2f47a8e8d96e517a467
+      internalID: -1119379694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 873
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f171f6da622f5f8439c6e9d14133e658
+      internalID: 49199406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 759
+        width: 23
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bfea3174d50584081a1694f37b7e54
+      internalID: 2124676459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 763
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea9511c1070e349ab8d527bb3a97d6
+      internalID: -369683814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 743
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889b57c8565353c4bab162b8ba37f50e
+      internalID: 1678398897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 744
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f9af503440334182c8a3cfb9a3352
+      internalID: 770639800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 801
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6690d8c42b8654c867009e91fb838b
+      internalID: 1778474542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 750
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d03e656b6340f4ca31fb5a259d6f2f
+      internalID: 944274618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 651
+        width: 84
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc793a24e74c4ea48a391a8db1213000
+      internalID: 830074428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 642
+        width: 87
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c3bca17e1ead4ebe84419f6212459
+      internalID: -1289756311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 693
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c58b6a9bbeaf6f46bfb9a579715d019
+      internalID: -436991475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 735
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed9077d48c18944af37274be262382
+      internalID: 1134213723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 639
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2628449a84bc4088fa6b06c884784
+      internalID: 1566821394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 645
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c18c4f2f0f9e084180082a03152f610
+      internalID: 831307651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 644
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2124d723eaf6dc439aca55fa4b8ebc0
+      internalID: -1613570615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 645
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60263f99ec1a28648aff13a9ff0ca8db
+      internalID: 1059418615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 645
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57459982e2a910a49919f5c98d461d7e
+      internalID: -701322086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 537
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf924de74146d4abba19a0872fd971
+      internalID: -425035010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 644
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85705223baee954183dac8461e4f009
+      internalID: -1822940966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 537
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ce789b049f0b4d9025e42969841d2
+      internalID: -182679555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 645
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84415c832b1101c49a5eea12f9d739ef
+      internalID: -1380491872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 536
+        width: 223
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b733873450a3834fb9aabe9dee512f5
+      internalID: -1993003948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 645
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49797e1fd895e6545ad71a3d4d0dbc05
+      internalID: -2089680956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 536
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6cf438a06ea34c836ab2d002d4270
+      internalID: 376467249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 537
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867dcb11d9716174f83d1c7f32f88648
+      internalID: 58426725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 537
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61043ce7ce428be468cf45a27aaf01b5
+      internalID: -1494246405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 537
+        width: 40
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf5e150e60bdaa40a64a161880edfe0
+      internalID: 222640289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 537
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192fd41afa4afad46ae8cb13f4ce2935
+      internalID: -2002451661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 537
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d2a72301d8c342930c9c3e664f7af
+      internalID: 613611247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 537
+        width: 41
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fc8eb569507584ba163e5779084377
+      internalID: -190698228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 465
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93903ba821579724a9d27982e92d5e13
+      internalID: -406003261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 504
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c7809ca176c148a599e6f9534ff16
+      internalID: -1621347046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 503
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95e33f3609f7745b20b43719b3eea5
+      internalID: 156490364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 503
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8f80ddcdebd14ba132aacc6b2ab86
+      internalID: -1955505244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 465
+        width: 145
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829729d9dae4d44ba039a34d7b53099
+      internalID: 1425644450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 246
+        width: 577
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f26fe717424447a19eb32b13b82f1
+      internalID: 1529324480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 465
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9547a403af8494880767daf0b05014
+      internalID: 463374474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 465
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76d20beb7a5d924d9dd081e331b4f91
+      internalID: 1766006472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 465
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400406be44e13e04fbe5aa80cd6e4871
+      internalID: 249639071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 390
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961ae2985f7b0a4aa2e50b26877e1ad
+      internalID: -442290977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 402
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779d3d2ee3410e445b6ee94668ea1de5
+      internalID: 1866726322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 396
+        width: 235
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9dcd2219bd62d469b657fae21b1a28
+      internalID: 1306190625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 276
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b906270622724aac8e2bf991cdcd9
+      internalID: -784199723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba18d78703f0649a1ca07e3955e3ef
+      internalID: -1045302186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 276
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac5fa5f133b28469103264b36267cb
+      internalID: 1918278777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 276
+        width: 37
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4e7e9081aae3478dc541044b452c9
+      internalID: -239460886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 279
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cdae9861a8cb045af640afded4377a
+      internalID: -1417764786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 279
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3fc45bd458b545bee7c7e24a3ee10
+      internalID: 1235320951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3075a2083e2247816c9b406146dbd
+      internalID: 561117706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 9
+        width: 473
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d3daedf30f57c4282d81a7de0b85c2
+      internalID: 1123409938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 279
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b3dfe28af79d4da6ed763249c6ef1
+      internalID: -503940557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 264
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01be30c38537fb4296bdf5f4dd1177a
+      internalID: 1272082402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: james-maxwell-barsprites-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 171
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88df56130bca5b7498ade299bde36ddf
+      internalID: 416146534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      james-maxwell-barsprites-removebg_0: 878351159
+      james-maxwell-barsprites-removebg_1: 951813087
+      james-maxwell-barsprites-removebg_10: 770639800
+      james-maxwell-barsprites-removebg_11: 1778474542
+      james-maxwell-barsprites-removebg_12: 944274618
+      james-maxwell-barsprites-removebg_13: 830074428
+      james-maxwell-barsprites-removebg_14: -1289756311
+      james-maxwell-barsprites-removebg_15: -436991475
+      james-maxwell-barsprites-removebg_16: 1134213723
+      james-maxwell-barsprites-removebg_17: 1566821394
+      james-maxwell-barsprites-removebg_18: 831307651
+      james-maxwell-barsprites-removebg_19: -1613570615
+      james-maxwell-barsprites-removebg_2: -701517008
+      james-maxwell-barsprites-removebg_20: 1059418615
+      james-maxwell-barsprites-removebg_21: -701322086
+      james-maxwell-barsprites-removebg_22: -425035010
+      james-maxwell-barsprites-removebg_23: -1822940966
+      james-maxwell-barsprites-removebg_24: -182679555
+      james-maxwell-barsprites-removebg_25: -1380491872
+      james-maxwell-barsprites-removebg_26: -1993003948
+      james-maxwell-barsprites-removebg_27: -2089680956
+      james-maxwell-barsprites-removebg_28: 376467249
+      james-maxwell-barsprites-removebg_29: 58426725
+      james-maxwell-barsprites-removebg_3: -2107442677
+      james-maxwell-barsprites-removebg_30: -1494246405
+      james-maxwell-barsprites-removebg_31: 222640289
+      james-maxwell-barsprites-removebg_32: -2002451661
+      james-maxwell-barsprites-removebg_33: 613611247
+      james-maxwell-barsprites-removebg_34: -190698228
+      james-maxwell-barsprites-removebg_35: -406003261
+      james-maxwell-barsprites-removebg_36: -1621347046
+      james-maxwell-barsprites-removebg_37: 156490364
+      james-maxwell-barsprites-removebg_38: -1955505244
+      james-maxwell-barsprites-removebg_39: 1425644450
+      james-maxwell-barsprites-removebg_4: 460426548
+      james-maxwell-barsprites-removebg_40: 1529324480
+      james-maxwell-barsprites-removebg_41: 463374474
+      james-maxwell-barsprites-removebg_42: 1766006472
+      james-maxwell-barsprites-removebg_43: 249639071
+      james-maxwell-barsprites-removebg_44: -442290977
+      james-maxwell-barsprites-removebg_45: 1866726322
+      james-maxwell-barsprites-removebg_46: 1306190625
+      james-maxwell-barsprites-removebg_47: -784199723
+      james-maxwell-barsprites-removebg_48: -1045302186
+      james-maxwell-barsprites-removebg_49: 1918278777
+      james-maxwell-barsprites-removebg_5: -1119379694
+      james-maxwell-barsprites-removebg_50: -239460886
+      james-maxwell-barsprites-removebg_51: -1417764786
+      james-maxwell-barsprites-removebg_52: 1235320951
+      james-maxwell-barsprites-removebg_53: 561117706
+      james-maxwell-barsprites-removebg_54: 1123409938
+      james-maxwell-barsprites-removebg_55: -503940557
+      james-maxwell-barsprites-removebg_56: 1272082402
+      james-maxwell-barsprites-removebg_57: 416146534
+      james-maxwell-barsprites-removebg_6: 49199406
+      james-maxwell-barsprites-removebg_7: 2124676459
+      james-maxwell-barsprites-removebg_8: -369683814
+      james-maxwell-barsprites-removebg_9: 1678398897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

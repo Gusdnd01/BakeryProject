@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3188bf866bca4a48b646ae953e1637a, type: 3}
+  m_Name: MrMuddyStat
+  m_EditorClassIdentifier: 
+  characterName: "Mr.\uCCA0\uD37D"
+  characterVisual: {fileID: 21300000, guid: 9a918190c8e8d1d42b9fc74c09c5ac84, type: 3}
+  maxHealth:
+    _baseValue: 50
+    modifiers: 
+  armor:
+    _baseValue: 0
+    modifiers: 
+  damage:
+    _baseValue: 6
+    modifiers: 
+  criticalChance:
+    _baseValue: 10
+    modifiers: 
+  criticalDamage:
+    _baseValue: 50
+    modifiers: 
+  _dropItem: {fileID: 11400000, guid: 2bcf6dbc6e0ffe14ca94acf4ca806df5, type: 2}
+  _level: 0
+  _percentageModifier: 0

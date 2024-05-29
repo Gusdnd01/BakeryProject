@@ -1,0 +1,212 @@
+﻿,어느 길드 내부,Guild,None,normal,FALSE,None
+타르트,흠 고블린 퇴치? 초보 모험가들이나 하는 퀘스트잖아!,Guild,None,angry,FALSE,None
+타르트,약초 체집? 으갹! 이렇게 깊은 곳 까지 가야 한다고?,Guild,None,surprise,TRUE,None
+타르트,저번에도 실수로 길을 잃어서 3일동안 풀만 캐먹다가 겨우겨우 구조됐는데..,Guild,None,sad,FALSE,Sad
+타르트,의뢰주 호의? 오! 보수는 꽤 두둑한데?,Guild,None,smile,FALSE,None
+타르트,어디보자 기간은..,Guild,None,normal,FALSE,None
+타르트,끄악! 그럼 그렇지! 꼬박 2년동안 동행해야 하잖아!,Guild,None,cutesad,FALSE,None
+타르트,안돼안돼 시간 없다고!! 밀린 이자가 몇인데! 보수도 좋고 조건도 좋은 퀘스트 어디 없나?,Guild,None,sad,FALSE,None
+타르트,이런식으로 살다간 빚더미에 깔려 죽을게 분명해!,Guild,None,sad,FALSE,None
+타르트,안좋은 생각은 그만하자.. 일단 할만한 퀘스트를 모아보는거야,Guild,None,cutesad,FALSE,None
+,(2시간 후),Guild,None,cutesad,FALSE,None
+타르트,응.. 이건?,Guild,None,normal,FALSE,None
+,[오늘은 제 생일이입니다. 케이크가 먹고싶어요. 주소 : 마왕성. 보상 : 원하는 만큼],Guild,None,normal,FALSE,None
+타르트,...?,Guild,None,embrass,FALSE,None
+타르트,뭐야 고작 케이크가 먹고 싶어서 퀘스트를 신청한거야? 그것도 보수를 원하는 만큼 전부 준다고?,Guild,None,embrass,FALSE,None
+타르트,(꿀꺽) 이건..,Guild,None,embrass,FALSE,Think
+타르트,장난하나! 무조건 꼬맹이 장난이잖아,Guild,None,angry,TRUE,None
+타르트,정규 양식도 안지키고! 의뢰 내용이랑 보수도 터무니 없고!,Guild,None,angry,FALSE,None
+타르트,무엇보다 이거 스케치북에 크레파스로 적은거 맞지?!,Guild,None,angry,FALSE,None
+타르트,이런 엉터리 퀘스트는 무시하고 다시..,Guild,None,cutesad,FALSE,None
+타르트,무시하고..,Guild,None,cutesad,FALSE,None
+타르트,잠깐! 혹시 .. 엉터리가 아니라면?,Guild,None,curious,FALSE,None
+타르트,그래. 이건 일종의 시험이 아닐까? 최대한 엉성하게 만들어서 평범한 사람은 이 퀘스트를 무시하게 만드는?,Guild,None,hesitate,FALSE,None
+타르트,맞아 들어본적 있어..!,Guild,None,hesitate,FALSE,None
+타르트,"일명 ""몰래 카메라 퀘스트!!!""",Guild,None,angry,TRUE,None
+타르트,정말 몰래카메라 퀘스트라면 반드시 수락해야 하잖아!!,Guild,None,embrass,FALSE,None
+타르트,후후.. 하하하하!! 이 퀘스트로 난 백만장자가 되는거야!,Guild,None,smile,FALSE,None
+타르트,침대도 새로 사고!,Guild,None,smile,FALSE,None
+타르트,가구도 새로 사고!,Guild,None,smile,FALSE,None
+타르트,검! 떼먹힌 할부도 다 값고 새로운 검도 사는거야!,Guild,None,smile,FALSE,None
+타르트,.. 그리고.. 밥을 다 먹은 후에 후식 푸딩을 무려 2개나 먹는 삶을 즐기는거지!,Guild,None,smile,FALSE,None
+타르트,흐히히.. 헤에.. 너무 행복하잖아!! 바로 출발이다!!,Guild,None,hesitate,FALSE,Happy
+,...,Black,Normal,sad,FALSE,None
+,[3시간 후],CastleAround,None,sad,FALSE,None
+타르트,헉.. 헉..,CastleAround,None,hesitate,FALSE,None
+타르트,으아아.. 왜이렇게 길이 험한거야?!,CastleAround,None,angry,FALSE,None
+타르트,하아..하아.. 그래도 드디어 도착했다. 마왕성!!,CastleAround,None,sad,FALSE,None
+타르트,의뢰주님? 의뢰주님..? 어디계신가요?,CastleAround,None,normal,FALSE,None
+타르트,의뢰주님!!!!,CastleAround,None,angry,FALSE,None
+타르트,흠.. 이상하다? 지금 안계시나?,CastleAround,None,curious,FALSE,None
+타르트,그건 그렇고 진짜 척박하다.. 가만히 있다간 진짜 마왕이라도 나타날거 같은걸?,CastleAround,None,embrass,FALSE,None
+,....,CastleAround,None,normal,FALSE,None
+타르트,갑자기 무서워 지기 시작했어.. 빨리 돌아가고 싶다,CastleAround,None,cutesad,FALSE,None
+???,머?! 돌아가고 싶다고? 벌써?,CastleAround,None,cutesad,FALSE,Sad
+타르트,꺄악!! 뭐야! 누구야!,CastleAround,None,embrass,TRUE,None
+타르트,어! 혹시 의뢰주님?!,CastleAround,None,curious,FALSE,None
+타르트,이 아니라 꼬마네..,CastleAround,None,sad,FALSE,None
+???,벌써 돌아가는거야..? 나 외로워..,CastleAround,None,cutesad,FALSE,None
+타르트,(누군데 갑기 나타나서 울기 시작하는거지? 그냥 길 잃은 꼬마인가?),CastleAround,None,curious,FALSE,None
+타르트,음 언니가 볼일이 있어서 잠깐 들린거거든? 아직은 더 있지 않을까?,CastleAround,None,hesitate,FALSE,None
+???,정말?,CastleAround,None,smile,FALSE,None
+타르트,그럼~ 그러니까 뚝! 하자.,CastleAround,None,hesitate,FALSE,None
+???,응..,CastleAround,None,sad,FALSE,None
+타르트,(휴.. 한시름 돌렸나? 어린애들은 울기 시작하면 골치 아파진단 말이야),CastleAround,None,normal,FALSE,None
+타르트,(저런 이상한 뿔 장식을 하고 있는 애들은 더더욱!),CastleAround,None,angry,FALSE,None
+타르트,그나저나 꼬마야? 넌 왜 여깄니? 여긴 엄청 무서운 곳인데?,CastleAround,None,curious,FALSE,None
+???,뭐?! 무서운 곳이야?,CastleAround,None,surprise,FALSE,None
+타르트,그럼~ 예전에 여기 근처에 무서운 마왕이 살았었거든 빨리 집에 돌아가는게 좋을걸?,CastleAround,None,normal,FALSE,None
+???,에이 그정도는 괜찮아!,CastleAround,None,smile,FALSE,None
+타르트,뭐..? 그러다가 마왕이 확 잡아간다!!,CastleAround,None,embrass,FALSE,None
+???,하나도 안무셔!,CastleAround,None,angry,TRUE,None
+타르트,(애가 어떻게 이렇게 겁이 없지? 나는 지금도 마왕이 잡아간다 하면 벌벌 떨리는데..),CastleAround,None,hesitate,FALSE,Sweat
+???,그리고 무서운게 나타나면 집으로 도망가면 돼!,CastleAround,None,smile,FALSE,None
+타르트,뭐? 가까운 마을이라 해도 거리가 꽤 있는 편인데?,CastleAround,None,surprise,FALSE,None
+???,무슨소리야! 저기! 저 성이 내 집이야!,CastleAround,None,smile,FALSE,None
+타르트,아! 저기~ 저쪽이면 분명 마왕성..,CastleAround,None,smile,FALSE,None
+타르트,뭐?! 저기가 너 집이라고?,CastleAround,None,surprise,TRUE,Curious
+???,응!,CastleAround,None,smile,FALSE,None
+타르트,거짓말 치고 있네! 저긴 예전에 마왕이 살았던 마왕성이거든요?,CastleAround,None,angry,FALSE,None
+타르트,아! 혹시 우리 꼬마님이 마왕인가?,CastleAround,None,smile,FALSE,None
+???,간파당했어..?! 생각보다 똑똑해!!,CastleAround,None,embrass,FALSE,None
+타르트,꼬맹이한테 욕먹을 정도로 바보는 아니거든?!,CastleAround,None,angry,FALSE,None
+타르트,(하.. 빨리 집으로 돌려 보내고 의뢰주님이랑 만나고 싶은데.. 도대체 어디 계신거야?),CastleAround,None,cutesad,FALSE,None
+타르트,(잠깐! 생각해 보니 이상한데? 마왕성 주변에 나타난 정체 불명의 자칭 마왕 꼬마라고?),CastleAround,None,normal,FALSE,None
+타르트,아!!!!!,CastleAround,None,surprise,TRUE,Idea
+???,으에?,CastleAround,None,surprise,FALSE,None
+타르트,이거 몰래카메라 퀘스트죠!!,CastleAround,None,smile,FALSE,None
+,몰래카메라..?,CastleAround,None,embrass,FALSE,None
+타르트,후후.. 마왕인 척 하시면서 재미좀 보시려고 한거 같은데! 저 이래봬도 소드마스터거든요!,CastleAround,None,smile,FALSE,None
+???,소드마스터?,CastleAround,None,embrass,FALSE,None
+타르트,그러니까.. 이미 걸렸데도!!,CastleAround,None,angry,FALSE,None
+타르트,잘 보세요! 이 뿔도 마왕급 뿔 크기에 꽤 정교하게 만들어 졌지만,CastleAround,None,smile,FALSE,None
+???,으아아아악!!! 뭐하는거야!,CastleAround,None,sad,TRUE,None
+타르트,으으으..,CastleAround,None,angry,FALSE,None
+???,흐이잉...,CastleAround,None,cutesad,FALSE,None
+타르트,(뭐야? 이거 왜이렇게 안뽑혀?),CastleAround,None,curious,FALSE,Sweat
+타르트,꽤 단단하게 고정해 놨는데요? 하지만!!,CastleAround,None,angry,FALSE,None
+???,으아악! 아파! 아파아!! 당기지 마!! 놔줘어어!!,CastleAround,None,angry,TRUE,None
+???,왜이렇게..!! 안빠져..!! 으랴아앗!!!,CastleAround,None,angry,TRUE,None
+???,흐에에에에엥!!!! 진짜 아파!! 이거 진짜 뿔이라고!! 그만해!!,CastleAround,None,cutesad,TRUE,Sad
+타르트,.....,CastleAround,None,embrass,FALSE,None
+???,갑자기 뭐하는거야!! 아파서 죽을 뻔 했잖아!!!,CastleAround,None,angry,FALSE,None
+타르트,아니! 그 저..,CastleAround,None,embrass,FALSE,None
+타르트,짜잔!! 몰래카메라~,CastleAround,None,smile,FALSE,None
+???,으엥??,CastleAround,None,cutesad,FALSE,None
+타르트,(오 마이 갓.. 저게 진짜 뿔이라면.. 나 설마 마족의 뿔을 죽어라 잡아당긴거야?),CastleAround,None,hesitate,FALSE,None
+타르트,죄송합니다!! 가짜인줄 알았어요!!,CastleAround,None,hesitate,FALSE,None
+마왕,어떤 건방진 인간이 마왕의 뿔을 잡아당기는거야!!,CastleAround,None,sad,FALSE,None
+타르트,(진짜 진짜 진짜 마왕이 맞는거 같은데? 온 몸이 본능적으로 떨리고 있어),CastleAround,None,embrass,FALSE,Shock
+타르트,(아니야 하늘이 무너져도 솟아날 구멍은 있다고 했어! 이런 상황에선..),CastleAround,None,hesitate,FALSE,None
+타르트,(후.. 가문의 비기. 궁지에 몰렸을 때 사용하는 비기 중의 비기. 그걸 사용 할 때인가?),CastleAround,None,sad,FALSE,None
+타르트,(밑져야 본전이다..),CastleAround,None,angry,FALSE,None
+타르트,흐읍!!,CastleAround,None,angry,FALSE,None
+타르트,죄송합니다!! 다시는 안나댈게요!!,CastleAround,None,cutesad,TRUE,Sad
+마왕,뭐해?,CastleAround,None,embrass,FALSE,None
+타르트,사과의 도개자입니다!,CastleAround,None,cutesad,TRUE,None
+마왕,?!,CastleAround,None,embrass,FALSE,None
+타르트,죄송합니다. 죄송합니다. 다시는 안나댈게요 용서해 주세요.,CastleAround,None,cutesad,TRUE,None
+마왕,푸하하하!! 너 진짜 이상하다! 내가 안무서워? 여기서 널 공격할수도 있잖아!,CastleAround,None,smile,FALSE,None
+타르트,죄송합니다! 그.. 지금부터 기어다니면 될까요?,CastleAround,None,cutesad,FALSE,None
+마왕,캬하하! 갑자기 왜 기어? 지금까지 만난 인간중에서 제일 이상해!,CastleAround,None,smile,FALSE,None
+타르트,하하..,CastleAround,None,sad,FALSE,None
+타르트,(끝났어. 마왕한테 제대로 찍혀버렸다. 이제 평생 노예로 부려먹히겠지),CastleAround,None,cutesad,FALSE,None
+타르트,(바이바이 청춘. 바이바이 배고프지만 낭만있던 모험가의 삶),CastleAround,None,cutesad,FALSE,None
+마왕,좋아 그럼 이렇게 하자. 우리 둘이 친구가 되는거야!,CastleAround,None,smile,FALSE,Sparkle
+타르트,네 넵?! 잘못들었습니다?,CastleAround,None,hesitate,TRUE,None
+마왕,친구 하면 친구 끼리의 장난으로 치고 너그럽게 넘어가 줄게!,CastleAround,None,smile,FALSE,None
+타르트,저랑요? 마왕님이요? 친구요?,CastleAround,None,embrass,FALSE,None
+마왕,응! 이제 매일 할 것도 없고 주변에 갖고 놀 것도 다 질려서 너무 심심하단 말이야!!,CastleAround,None,smile,FALSE,Sad
+타르트,그렇다고 갑자기 마왕님과 친구하라 해도..,CastleAround,None,hesitate,FALSE,None
+마왕,안돼..?,CastleAround,None,sad,FALSE,None
+타르트,아니에요! 친구 할게요! 제발 용서해 주세요!!,CastleAround,None,surprise,FALSE,None
+마왕,정말?!,CastleAround,None,smile,FALSE,None
+타르트,친구 하겠습니다! 저랑 마왕님은 이제부터 친구사이~,CastleAround,None,hesitate,FALSE,None
+마왕,와! 친구! 나 친구 처음으로 사귀어봐!,CastleAround,None,smile,FALSE,None
+타르트,(나도 마족이랑은.. 그것도 마왕과는 처음인데),CastleAround,None,sad,FALSE,None
+마왕,히히! 칭구! 칭구야!,CastleAround,None,smile,FALSE,None
+타르트,네에..?,CastleAround,None,hesitate,FALSE,None
+마왕,칭구는 이름 뭐야?,CastleAround,None,smile,FALSE,None
+타르트,아! 이름이요? 전 타르트라고 합니다!,CastleAround,None,surprise,FALSE,None
+마왕,타르트? 타르트.. 타르트..,CastleAround,None,normal,FALSE,None
+마왕,뭔가 달콤한 이름이네?!,CastleAround,None,surprise,FALSE,None
+마왕,타르트는? 타르트는 내 이름 안물어봐?,CastleAround,None,curious,FALSE,None
+타르트,넵? 어.. 그러면 혹시 이름이 어떻게 되실까요?,CastleAround,None,embrass,FALSE,None
+크림슨 브륄레,내 이름은 크림슨 브륄레야~ 아! 나이는 1100살!,CastleAround,None,smile,FALSE,None
+타르트,네?? 1100살이요?! 설마 했던 엄청난 동안?!,CastleAround,None,embrass,TRUE,None
+크림슨 브륄레,응! 인간 나이로 1100살! 마족 나이론 음... 어.. 대충 11살?,CastleAround,None,hesitate,FALSE,None
+타르트,(성장 속도가 달라도 너무 다르잖아! 1100살의 인간이라면 죽어서 뼈도 안남았을 거라고!),CastleAround,None,embrass,FALSE,None
+크림슨 브륄레,타르트는 첫 친구니까 특별히 '크림'이라고 불러도 괜찮아!,CastleAround,None,smile,FALSE,Sparkle
+타르트,(크림..? 마왕님의 애칭인가? 확실히 '크림슨 브륄레' 라는 이름은 너무 거창한 느낌이긴 한데..),CastleAround,None,curious,FALSE,None
+타르트,갑자기 반말은 조금.. 일단은 크림님이라고 불러도 될까요?,CastleAround,None,normal,FALSE,None
+크림,안돼!,CastleAround,None,angry,FALSE,None
+타르트,네?!,CastleAround,None,cutesad,FALSE,None
+크림,우린 친구잖아! 존댓말 하지 말란말이야!,CastleAround,None,sad,FALSE,Sad
+타르트,아하 친구니까..,CastleAround,None,sad,FALSE,None
+타르트,그럼 이제부터 크림.. 이라고 부를게?,CastleAround,None,smile,FALSE,None
+크림,와아~ 이제 진짜 친구같아! 아니 진짜 친구야!,CastleAround,None,smile,FALSE,None
+타르트,응! 친구! 와아~~,CastleAround,None,smile,FALSE,None
+타르트,(잠깐! 나 지금 뭐하고 있는거야? 엉터리 퀘스트 때문에 말도 안되는 일에 휘말려 버렸잖아!),CastleAround,None,surprise,FALSE,None
+크림,맞아! 타르트는 근데 여기까지 왜 온거야?,CastleAround,None,curious,FALSE,Curious
+타르트,퀘스트에 적혀있는 장소대로 왔는데.. 아무래도 사기 퀘스트였나봐,CastleAround,None,sad,FALSE,None
+,(퀘스트를 꺼낸다.),CastleAround,None,curious,FALSE,None
+타르트,이 퀘스트인데 역시 그냥 엉터리..,CastleAround,None,normal,FALSE,None
+크림,어!! 이거 크림이 의뢰한 퀘스트다!,CastleAround,None,surprise,FALSE,None
+타르트,...?,CastleAround,None,normal,FALSE,None
+타르트,엉?,CastleAround,None,embrass,FALSE,Think
+크림,맞아! 생일 케이크가 먹고싶어서 몰래 길드 의뢰 게시판에 붙여놨어!,CastleAround,None,smile,FALSE,None
+타르트,(뭐?! 그렇다면.. 마왕의 퀘스트였단 말이야?! 그럼 정말 보상으로 돈을 원하는 만큼 주는건가?),CastleAround,None,surprise,TRUE,None
+타르트,(아니야! 아무리 마왕이라 해도 저런 세상 물정 몰라 보이는 꼬맹이가 의뢰주라면..),CastleAround,None,embrass,FALSE,None
+타르트,저기저기 크림아?,CastleAround,None,hesitate,FALSE,None
+크림,응?,CastleAround,None,smile,FALSE,None
+타르트,내가 진짜 널 못믿어서는 아닌데 혹시..,CastleAround,None,hesitate,FALSE,None
+크림,혹시?,CastleAround,None,smile,FALSE,None
+타르트,퀘스트 수행하면 줄 보수는 확실히 있는거지?!,CastleAround,None,hesitate,FALSE,None
+크림,보수..? 아~ 돈? 금화 창고에 많아!,CastleAround,None,smile,FALSE,None
+크림,어.. 혹시 금화는 별로야? 그럼 다이아몬드나 루비도 있어!,CastleAround,None,hesitate,FALSE,None
+타르트,(금화? 다이아와 루비? 잭팟 떳다!!!),CastleAround,None,surprise,TRUE,None
+타르트,나한테 맞겨 크림! 친.구.한테 의지하라고~,CastleAround,None,smile,FALSE,None
+크림,우와! 듬직해! 드디어 맛있는 생일 케이크 먹을 수 있어?!,CastleAround,None,smile,FALSE,None
+타르트,그럼! 물론이지~,CastleAround,None,smile,FALSE,None
+타르트,짜잔~ 고급 제과점의 특제 초코 케이크! 이정도면 의뢰는 성공이지!,CastleAround,None,smile,FALSE,Happy
+크림,오오.. 맛있어보여!,CastleAround,None,smile,FALSE,None
+타르트,당연하지! 빠득 빠득 모은 전 재산을 털어서 큰맘먹고 산거라고!,CastleAround,None,angry,FALSE,None
+타르트,(사실 할부금 갚으면서 몇 달동안 저축한 건데..),CastleAround,None,sad,FALSE,None
+타르트,(그래도 보물을 왕창 받을 수 있다면 아무래도 좋은거 아니겠어?),CastleAround,None,smile,FALSE,None
+타르트,자아~ 그럼 어서 한입 하실까요? 입 벌려! 케이크 들어간다!!,CastleAround,None,angry,FALSE,None
+크림,아아아~~,CastleAround,None,smile,FALSE,None
+크림,옴뇸뇸..,CastleAround,None,normal,FALSE,None
+타르트,어때? 입맛에 좀 맞아?,CastleAround,None,hesitate,FALSE,None
+크림,음! 맛있어!!!!,CastleAround,None,smile,TRUE,Sparkle
+타르트,다행이다! 마음에 들었구나! 그럼 이제 보수를..,CastleAround,None,smile,FALSE,None
+크림,맛있지만 보수는 못줘!,CastleAround,None,normal,FALSE,None
+타르트,네?,CastleAround,None,embrass,FALSE,None
+크림,분명 맛있었지만 이건 우리 엄마 케이크가 아닌걸?,CastleAround,None,normal,FALSE,None
+타르트,그게 무슨소리니 크림크림아? 분명 퀘스트에는 그냥 생일 케이크라고 적혀 있었는데?,CastleAround,None,cutesad,FALSE,None
+크림,응! 크림의 엄마가 만들어준 궁극의 생일케이크!,CastleAround,None,smile,FALSE,None
+타르트,야!! 그런 억지가 어딨어! 분명 이 퀘스트에 적혀 있는 조건은..!,CastleAround,None,angry,FALSE,None
+타르트,으악 이게 뭐야!!!!,CastleAround,None,surprise,TRUE,Shock
+타르트,뭐야?! 이거 왜이렇게 변했어? 뭔가 엄청 무서워 졌는데?,CastleAround,None,cutesad,FALSE,None
+크림,어?! 저거 그거! 아빠가 자주 쓰던 음.. 아.. 계약서!! 그거랑 똑같아졌다!,CastleAround,None,smile,FALSE,None
+타르트,계약서...?,CastleAround,None,curious,FALSE,None
+크림,응! 아빠가 그랬어! 마왕과 인간이 거래를 하면 반드시 계약으로 이행된다고!,CastleAround,None,smile,FALSE,None
+크림,근데 어려운 말 많아! 크림은 뭔소린지 이해 못했어..,CastleAround,None,cutesad,FALSE,None
+타르트,계약이라니.. 그렇다면 조항은..,CastleAround,None,sad,FALSE,None
+,1. 을 타르트는 갑 크림이 만족할 만한 케이크를 대접해야만 한다.,CastleAround,None,smile,FALSE,None
+,2. 을 타르트가 이를 어길시 평생의 제약으로 '대치지 않은 브로콜리'만을 먹어야만 한다.,CastleAround,None,smile,FALSE,None
+,3. 갑 크림슨 브륄레는 을 타르트가 제공한 케이크가 마음에 들었을 경우 을 타르트의 요구에 가능한 맞춰서 보수를 지급해야 한다.,CastleAround,None,smile,FALSE,None
+,4. 이 계약이 유지되는 동안 을 타르트의 생사 여탈권은 갑 크림슨 브륄레에게 양도된다.,CastleAround,None,smile,FALSE,None
+타르트,계약이라니 영문도 모르겠는데요? 심지어 실패 시 생 브로콜리만 먹으라고? 장난해?,CastleAround,None,cutesad,TRUE,None
+크림,아빠가 그랬어! 우매한 인간들과 고귀한 마왕과의 계약은 항상 마왕에게 유리한 쪽으로 체결된다고!,CastleAround,None,smile,FALSE,None
+크림,근데 크림은 그 말도 이해 못했어..,CastleAround,None,cutesad,FALSE,None
+타르트,(후.. 이게 무슨일이야? 퀘스트 실패 시 평생 브로콜리만 먹으면서 살아야 한다고?),CastleAround,None,hesitate,FALSE,None
+타르트,(아니야 긍정적으로 생각하자. 퀘스트를 성공한다면? 돈을 받을 수 있어! 그것도 평생 사치스럽게 살아도 될 정도로 많이!),CastleAround,None,hesitate,FALSE,None
+타르트,이렇게 된 이상 어쩔 수 없어. 퀘스트에 도전한다!,CastleAround,None,angry,TRUE,Idea
+크림,와! 진짜 엄마의 케이크를 만들어 주는거야?,CastleAround,None,smile,FALSE,None
+타르트,브로콜리만 먹는 건 사양이거든! 어떤 케이크인지나 말해! 다 만들어 줄테니까!!,CastleAround,None,angry,FALSE,None
+크림,엄마의 케이크! 엄마가 항상 만들어 주던 궁극의 딸기 케이크가 먹고싶어!,CastleAround,None,smile,FALSE,None
+타르트,좋아 만들어 보이겠어! 참고 할 레시피는?!,CastleAround,None,hesitate,FALSE,None
+크림,레시피는 모르겠지만 엄마가 가져온 케이크 재료를 본 기억이 있어!,CastleAround,None,smile,FALSE,None
+크림,어.. 그런데 오래돼서 기억이 뒤죽 박죽이야.. 맞는 기억인지는 몰라,CastleAround,None,hesitate,FALSE,None
+타르트,그래도 일단 재료가 있었던 곳으로 움직이자! 퀘스트를 클리어 하고 서로 윈윈하는거야,CastleAround,None,smile,FALSE,None
+크림,좋아! 크림도 케이크 먹고싶으니까! 출발 출발~,CastleAround,None,smile,FALSE,Happy

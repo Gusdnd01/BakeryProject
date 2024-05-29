@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Laser_two_side 1
+  m_Shader: {fileID: 4800000, guid: bec6717ef66f8ef4daddaa2d7d74ea50, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - USE_CUSTOM_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Dissolve_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 2800000, guid: 145143eb93006454baed654b5669d0c3, type: 3}
+        m_Scale: {x: 2, y: 0.93}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Texture:
+        m_Texture: {fileID: 2800000, guid: 0c9e585b001cd8048afcd07b5676b774, type: 3}
+        m_Scale: {x: 1, y: 0.14}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _normal_tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Use_Custom: 1
+    - _AlphaCutoff: 0.5
+    - _Dissolve: -0.88
+    - _Emi_Tex_Val: 0.16
+    - _EnableExternalAlpha: 0
+    - _Fade_Ditance: 0
+    - _Float0: 0.54
+    - _Main_Ins: 10
+    - _Main_Pow: 1
+    - _Main_UPanner: 1.37
+    - _Main_VPanner: -0.07
+    - _Mask1x: 0
+    - _Mask_Mirror: 0
+    - _Mask_Range: 3.63
+    - _Noise_Upanner: 0
+    - _Noise_VPanner: 0.2
+    - _Noise_str: 1
+    - _Opacity: 10
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Rot: 0.58
+    - _Step_Amount: 0.86
+    - _UPanner: 0
+    - _Use_Customdata: 0
+    - _Use_Customdata1: 0
+    - _Use_Mask: 0
+    - _Use_lerp: 0
+    - _main_upanner: 0
+    - _main_vpanner: 0
+    - _normal_radial: 0
+    - _normal_str: 0
+    - _normal_upanner: 1
+    - _normal_vpanner: 1
+    - _use_polar: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_Back: {r: 4.0472007, g: 0.5536266, b: 1.5333191, a: 0}
+    - _Color_Front: {r: 0.23584908, g: 0, b: 0.112462394, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Tint_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _main_color_a: {r: 2.2973967, g: 0.8994524, b: 1.8423439, a: 0}
+    - _main_color_b: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
