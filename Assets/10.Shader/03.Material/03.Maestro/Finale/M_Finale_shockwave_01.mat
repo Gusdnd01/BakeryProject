@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-286525968949509695
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,11 +20,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_Finale_note
-  m_Shader: {fileID: 4800000, guid: 4b7c34181f4d74244be6861121c94efa, type: 3}
+  m_Name: M_Finale_shockwave_01
+  m_Shader: {fileID: 4800000, guid: 309633704305e5c42989ad47b5de3820, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - USE_CUSTOM_ON
+  - _MASK_MIRROR_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -44,11 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Diss_Texture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Dissolve_Texture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: d6b17fdebfb35da4f9bd82661ff94718, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -60,8 +71,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Main_Texture:
-        m_Texture: {fileID: 2800000, guid: 6a159a0afdc74bc45a9a92da9af36c77, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Texture: {fileID: 2800000, guid: 870ae2d60d57cd04fba95274a1472f67, type: 3}
+        m_Scale: {x: 2, y: 0.6}
         m_Offset: {x: 0, y: 0}
     - _Mask_Texture:
         m_Texture: {fileID: 0}
@@ -91,35 +102,7 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 870ae2d60d57cd04fba95274a1472f67, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _Vertex_texture:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _diss_normal_tex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _diss_tex:
-        m_Texture: {fileID: 2800000, guid: 89077298ef5a77c44a33b40e1e7122fc, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _noise_tex_a:
-        m_Texture: {fileID: 2800000, guid: d6b17fdebfb35da4f9bd82661ff94718, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _noise_tex_b:
-        m_Texture: {fileID: 2800000, guid: 870ae2d60d57cd04fba95274a1472f67, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _normal_tex:
-        m_Texture: {fileID: 2800000, guid: 0c9e585b001cd8048afcd07b5676b774, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -137,7 +120,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Use_Custom: 0
+    - Use_Custom: 1
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
     - _AlphaToMask: 0
@@ -160,30 +143,22 @@ Material:
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
     - _Fade_Distance: 0
-    - _Fade_Ditance: 0
-    - _Float1: 0.66
-    - _Float2: 0.63
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Keyword0: 0
-    - _Main_Ins: 1
-    - _Main_Pow: 1
+    - _Main_Ins: 8.44
+    - _Main_Pow: 2.36
     - _Main_UPanner: 0
-    - _Main_VPanner: 0.39
+    - _Main_VPanner: 1.5
     - _Mask_1x: 0
     - _Mask_Mirror: 1
-    - _Mask_Pow: 5.346326
-    - _Mask_Range: 2.9
+    - _Mask_Pow: 1
     - _Metallic: 0
-    - _Noise_Str: 0.06793601
+    - _Noise_Str: 0
     - _Noise_Tex_UPanner: 0
     - _Noise_Tex_VPanner: 0
-    - _Noise_Upanner: 0
-    - _Noise_VPanner: 0
-    - _Noise_str: 1
     - _OcclusionStrength: 1
-    - _Opacity: 0.68
+    - _Opacity: 2.17
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -194,57 +169,21 @@ Material:
     - _Src: 5
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
-    - _Step_Amount: 0.2
     - _SubTex_Ins: 0
     - _SubTex_Pow: 0
     - _SubTex_UPanner: 0
     - _SubTex_VPanner: 0
     - _Surface: 0
-    - _UPanner: 0
     - _Use_AddMulityMask: 0
     - _Use_Ceil: 0
-    - _Use_Customdata: 0
     - _Use_MaskTex: 0
-    - _Use_ToonDissolve: 0
-    - _Use_lerp: 0
-    - _Use_main_step: 0
     - _Use_vertex: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _diss: 0
-    - _diss_normal_power: 0
-    - _diss_normal_upanner: 0
-    - _diss_normal_vpanner: 0
-    - _diss_upanner: 0
-    - _diss_vpanner: 0
-    - _dissolve: 0.69
-    - _down_range: 1
-    - _edge_width: 0.06
-    - _int: 1
-    - _main_step: 0.5
-    - _main_upanner: 0
-    - _main_vpanner: 0
-    - _noise_a_upanner: 0
-    - _noise_a_vpanner: -0.5
-    - _noise_b_upanner: 0
-    - _noise_b_vpanner: -1
-    - _normal_radial: 0
-    - _normal_str: 0
-    - _normal_upanner: 1
-    - _normal_vpanner: 1
-    - _pow: 4.52
-    - _shadow_off: 0
-    - _shadow_range: 0.89
-    - _smoothness: 0.58
-    - _step_a: 0.548
-    - _step_b: 1
-    - _use_other_diss: 0
-    - _use_polar: 0
     - _vertex_pow: 3.71
     - _vertex_str: 0
     - _vertex_upanner: 0
     - _vertex_vpanner: 0
-    - use_custom: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -252,25 +191,4 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SubTex_Color: {r: 0, g: 0, b: 0, a: 0}
     - _TintColor: {r: 1, g: 1, b: 1, a: 0}
-    - _Tint_Color: {r: 1, g: 1, b: 1, a: 0}
-    - _color_a: {r: 1, g: 1, b: 1, a: 0}
-    - _color_b: {r: 0.44139373, g: 0.48180932, b: 0.8584906, a: 0}
-    - _edge_color: {r: 0, g: 0, b: 0, a: 0}
-    - _main_color: {r: 1, g: 1, b: 1, a: 0}
-    - _main_color_a: {r: 7.4642644, g: 7.4642644, b: 7.4642644, a: 0}
-    - _main_color_b: {r: 1, g: 1, b: 1, a: 0}
-    - _main_scale: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &4216949592568096137
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 7
